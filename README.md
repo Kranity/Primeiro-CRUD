@@ -1,0 +1,2 @@
+# Primeiro-CRUD
+1 - Na área de login é possível entrar sendo administrador colocando usuário e senha como "admin" ou visitante usando o usuário e senha como "user". 2 - Se a pessoa logar como administrador ela poderá cadastrar os clientes e visualiza-los ao lado e caso erre o cadastro existe um botão excluir que apagará o cliente. 3 - Já o visitante terá acesso apenas a visualização dos clientes cadastrados e não conseguirá mudar nenhum dado.
